@@ -1,5 +1,6 @@
 <img style="margin: 30px;" align="right" src="https://boredapps.ai/wp-content/uploads/2023/11/Resumator_300_Logo.png">
-#Free Resume Templates by The Resumator
+
+## Free Resume Templates by The Resumator
 
 🌟 Empowering Your Career Journey with Professional Resume Templates
 
