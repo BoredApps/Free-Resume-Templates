@@ -6,16 +6,24 @@
 
 I know from experience that crafting the perfect resume can be daunting.  This page has various types of resume templates that I hope will come in handy  to simplify your job application process, making it more efficient and effective.
 
-* **ATS-Friendly Resumes:** Beat the bots! Our templates are optimized for Applicant Tracking Systems, ensuring your resume gets noticed.
-* **Functional Resumes:** Ideal for those with a diverse skillset or gaps in employment. Emphasize your abilities, not just your history.
-* **Human Readable**: Eye-catching designs that stand out to recruiters, balancing aesthetics with professionalism.
-* **STAR Method:** Structured to help you narrate your achievements using the Situation, Task, Action, Result format, ideal for behavioral interviews.
-
 The templates are user-friendly and easily customizable to fit your unique story. You can copy and paste the format and fill in the blanks or download the templates as a Word doc. 
 Whether you're a fresh graduate or a seasoned professional, spend less time formatting, and more tailoring your experiences and skills.
 
+## Free Resume Templates
 
-#Resume Templates- 
+### [1. Applicant Tracking Systems ](https://github.com/BoredApps/Free-Resume-Templates/wiki/Resume-Template%E2%80%90-Applicant-Tracking-Systems)
+Formatted for today's Applicant Tracking Systems (ATS)
+
+### [2. STAR Format ](https://github.com/BoredApps/Free-Resume-Templates/wiki/STAR-Resume-Format)
+This template leverages the STAR method (Situation, Task, Action, Result) to create impactful and specific descriptions of your experiences, which is especially useful for behavioral interview questions and making your resume stand out to employers.
+
+### [3. Functional Resume](https://github.com/BoredApps/Free-Resume-Templates/wiki/Functional-Resume)
+A functional resume focuses on skills and experience rather than on chronological work history. This resume is useful to those who have had an occasional gap in employment but have consistently improved their skills. 
+
+### [4. Human Readable](https://github.com/BoredApps/Free-Resume-Templates/wiki/Human-Readable)
+When crafting a resume for human readers, you have more flexibility to use design elements and a narrative style. The focus here is on readability, visual appeal, and storytelling, while still maintaining professionalism. 
+
+#Resume Templates Home Page- 
 https://github.com/BoredApps/Free-Resume-Templates/wiki
 
 ## Feedback
