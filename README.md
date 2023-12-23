@@ -1,6 +1,6 @@
 <img style="margin: 30px;" align="right" src="https://boredapps.ai/wp-content/uploads/2023/11/Resumator_300_Logo.png">
 
-## Free Resume Templates by The Resumator
+## 🆓 Free Resume Templates by The Resumator
 
 🌟 Empowering Your Career Journey with Professional Resume Templates
 
@@ -9,7 +9,7 @@ I know from experience that crafting the perfect resume can be daunting.  This p
 The templates are user-friendly and easily customizable to fit your unique story. You can copy and paste the format and fill in the blanks or download the templates as a Word doc. 
 Whether you're a fresh graduate or a seasoned professional, spend less time formatting, and more tailoring your experiences and skills.
 
-## Free Resume Templates
+## 🆓 Free Resume Templates
 
 ### [1. ATS Resume Template ](https://github.com/BoredApps/Free-Resume-Templates/blob/main/ATS%20Resume%20Template.md)
 Formatted for today's Applicant Tracking Systems (ATS)
