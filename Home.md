@@ -29,8 +29,6 @@ A simple, effective one-page resume template that you can use as a guide. Rememb
 ### [6. CV (Curricilum Vitae) Template](https://github.com/BoredApps/Free-Resume-Templates/blob/main/CV%20Template.md)
  This format is suitable when you need to provide an in-depth overview of your professional background, such as for academic, research, or high-level executive positions.
  
-#Resume Templates Home Page- 
-https://github.com/BoredApps/Free-Resume-Templates/wiki
 
 ## Feedback
 Is there a particular resume style or format you're looking for?  Let me know and I'll see if I can create and post it up. feedback@boredapps.ai
