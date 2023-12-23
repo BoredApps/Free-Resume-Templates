@@ -6,7 +6,7 @@
 
 I know from experience that crafting the perfect resume can be daunting.  This page has various types of resume templates that I hope will come in handy  to simplify your job application process, making it more efficient and effective.
 
-The templates are user-friendly and easily customizable to fit your unique story. You can copy and paste the format and fill in the blanks or download the templates as a Word doc. 
+The templates are user-friendly and easily customizable to fit your unique story. You can copy and paste the format and fill in the blanks or download the zip of Word docs for later. 
 Whether you're a fresh graduate or a seasoned professional, spend less time formatting, and more tailoring your experiences and skills.
 
 ## 🆓 Free Resume Templates
