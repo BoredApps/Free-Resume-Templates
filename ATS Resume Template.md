@@ -1,4 +1,4 @@
-# ATS (Applicant Tracking System) Resume Format
+## ATS (Applicant Tracking System) Resume Format
 
 Formatting your resume for Applicant Tracking Systems (ATS) is crucial in today's job market. Here's a template you can use as a guideline. Remember, the key to an ATS-friendly resume is simplicity in format, clear section headings, and the use of keywords relevant to the job description.
 
