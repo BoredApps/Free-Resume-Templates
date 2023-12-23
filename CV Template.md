@@ -1,4 +1,4 @@
-# CV  (Curriculum Vitae) Template
+## CV  (Curriculum Vitae) Template
 
 Below is a detailed template for a full Curriculum Vitae (CV) which you can use to showcase your skills and experience comprehensively. 
 This format is suitable when you need to provide an in-depth overview of your professional background, such as for academic, research, or high-level executive positions.
