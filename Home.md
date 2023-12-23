@@ -11,18 +11,24 @@ Whether you're a fresh graduate or a seasoned professional, spend less time form
 
 ## Free Resume Templates
 
-### [1. Applicant Tracking Systems ](https://github.com/BoredApps/Free-Resume-Templates/wiki/Resume-Template%E2%80%90-Applicant-Tracking-Systems)
+### [1. ATS Resume Template ](https://github.com/BoredApps/Free-Resume-Templates/blob/main/ATS%20Resume%20Template.md)
 Formatted for today's Applicant Tracking Systems (ATS)
 
-### [2. STAR Format ](https://github.com/BoredApps/Free-Resume-Templates/wiki/STAR-Resume-Format)
+### [2. STAR Resume Template ](https://github.com/BoredApps/Free-Resume-Templates/blob/main/STAR%20Template.md)
 This template leverages the STAR method (Situation, Task, Action, Result) to create impactful and specific descriptions of your experiences, which is especially useful for behavioral interview questions and making your resume stand out to employers.
 
-### [3. Functional Resume](https://github.com/BoredApps/Free-Resume-Templates/wiki/Functional-Resume)
+### [3. Functional Resume Template](https://github.com/BoredApps/Free-Resume-Templates/blob/main/Functional%20Resume%20Template.md)
 A functional resume focuses on skills and experience rather than on chronological work history. This resume is useful to those who have had an occasional gap in employment but have consistently improved their skills. 
 
-### [4. Human Readable](https://github.com/BoredApps/Free-Resume-Templates/wiki/Human-Readable)
+### [4. Human Readable Resume Template](https://github.com/BoredApps/Free-Resume-Templates/blob/main/Human%20Readable%20Resume%20Template.md)
 When crafting a resume for human readers, you have more flexibility to use design elements and a narrative style. The focus here is on readability, visual appeal, and storytelling, while still maintaining professionalism. 
 
+### [5. One Page Resume Template](https://github.com/BoredApps/Free-Resume-Templates/blob/main/One%20Page%20Template.md)
+A simple, effective one-page resume template that you can use as a guide. Remember, the key is to customize this template according to your own experience and the specific job you're applying for.
+
+### [6. CV (Curricilum Vitae) Template](https://github.com/BoredApps/Free-Resume-Templates/blob/main/CV%20Template.md)
+ This format is suitable when you need to provide an in-depth overview of your professional background, such as for academic, research, or high-level executive positions.
+ 
 #Resume Templates Home Page- 
 https://github.com/BoredApps/Free-Resume-Templates/wiki
 
