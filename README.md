@@ -29,7 +29,9 @@ A simple, effective one-page resume template that you can use as a guide. Rememb
 ### [6. CV (Curricilum Vitae) Template](https://github.com/BoredApps/Free-Resume-Templates/blob/main/CV%20Template.md)
  This format is suitable when you need to provide an in-depth overview of your professional background, such as for academic, research, or high-level executive positions.
 
-## [Bonus: Example CV]
+ <hr>
+### [Example CV Cedric Killian Hook- Professional Pirate](https://github.com/BoredApps/Free-Resume-Templates/blob/main/Example%20Resume.md)
+A seasoned and feared pirate with 20 years of extensive experience in naval warfare, strategic planning, and treasure hunting. 
  <hr>
 
 ## 💬 Feedback
