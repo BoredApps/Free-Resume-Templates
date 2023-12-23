@@ -1,4 +1,4 @@
-# Human Readable Resume Format
+# Human Readable Resume Format 
 
 When crafting a resume for human readers, you have more flexibility to use design elements and a narrative style. The focus here is on readability, visual appeal, and storytelling, while still maintaining professionalism. 
 
