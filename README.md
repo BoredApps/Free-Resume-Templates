@@ -1,7 +1,6 @@
 <img style="margin: 30px;" align="right" src="https://boredapps.ai/wp-content/uploads/2023/11/Resumator_300_Logo.png">
 
-## 🆓 Free Resume Templates by The Resumator
-
+## 🆓 Free Resume Templates 
 🌟 Empowering Your Career Journey with Professional Resume Templates
 
 I know from experience that crafting the perfect resume can be daunting.  This page has various types of resume templates that I hope will come in handy  to simplify your job application process, making it more efficient and effective.
