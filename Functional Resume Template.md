@@ -1,4 +1,4 @@
-##Functional Resume 
+## Functional Resume 
 A functional resume focuses on skills and experience rather than on chronological work history. This resume is useful to those who have had an occasional gap in employment but have consistently improved their skills. 
 
 It's also useful for those who have relevant skills for a field or industry but little to no job experience in that industry.
