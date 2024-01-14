@@ -30,7 +30,10 @@ A simple, effective one-page resume template that you can use as a guide. Rememb
 
 ### [*Example CV - Cedric Killian Hook- Professional Pirate](https://github.com/BoredApps/Free-Resume-Templates/blob/main/Example%20Resume.md) 
 A seasoned and feared pirate with 20 years of extensive experience in naval warfare, strategic planning, and treasure hunting. 
+<hr>
 
+### 🤓 Be the First to Discover What's New at BoredApps!
+Stay ahead of the curve. When you join our community you'll receive exclusive updates, insider tips, and early access to our newest offerings all conveniently delivered straight to your inbox @ https://sendfox.com/realboredapps 
 <hr>
 
 ## ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/boredapps)
@@ -41,4 +44,4 @@ ChatGPT and GPT applications are experimental technologies. They provide advance
 Created by The Resumator- ChatGPT - https://chat.openai.com/g/g-JhRPT0uWY-the-resumator</span>
 <hr>
 
-[The Resumator](https://chat.openai.com/g/g-JhRPT0uWY-the-resumator) - Create custom job resume's | [Wordsmith](https://chat.openai.com/g/g-dH2mK7Um0-wordsmith)- An AI Writing Assistant | [BoredApps.ai](https://boredapps.ai/)
+
