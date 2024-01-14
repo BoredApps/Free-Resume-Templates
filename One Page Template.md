@@ -15,7 +15,7 @@ Here's a simple, effective one-page resume template that you can use as a guide.
 *	LinkedIn: [Your LinkedIn Profile URL]
 *	Address: [Optional]
 
-# Professional Summary
+# Professional Summary (optional)
 A brief statement (2-3 sentences) summarizing your professional background, key skills, and what you aim to bring to the role you're applying for.
 Work Experience
 
@@ -34,8 +34,5 @@ Work Experience
 # Skills
 * List of relevant skills. Include both hard skills (e.g., software proficiency) and soft skills (e.g., communication).
 
-# Certifications & Awards (if applicable)
-Briefly list any relevant certifications or awards.
 
-# Volunteer Experience/Additional Activities (optional)
-Short description of roles and responsibilities, if relevant to the job.
+
